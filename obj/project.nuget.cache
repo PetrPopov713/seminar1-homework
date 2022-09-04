@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sKK/ARkK2YVrvaBALWj8/XPcY7LpC0SHL8DDrWgi5NnWGMeI3dXQ45AnV85oSL3N5CrAAZ3LNG5yLPU+neCFfA==",
+  "success": true,
+  "projectFilePath": "/home/petr/Рабочий стол/Geek Brains/c# sem1 Homework/c# sem1 Homework.csproj",
+  "expectedPackageFiles": [
+    "/home/petr/.nuget/packages/microsoft.netcore.app.ref/6.0.5/microsoft.netcore.app.ref.6.0.5.nupkg.sha512",
+    "/home/petr/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.5/microsoft.netcore.app.host.linux-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
